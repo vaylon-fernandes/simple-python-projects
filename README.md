@@ -10,4 +10,4 @@ A collection of beginner friendly python projects
 * [Right Triangle Solver](https://github.com/vaylon-fernandes/simple-python-projects/tree/main/right_triangle_solver)
 * [Rock, Paper, Scissors](https://github.com/vaylon-fernandes/simple-python-projects/tree/main/rock_paper_scissors)
 * [Caesar Cipher](https://github.com/vaylon-fernandes/Caesar-Cipher)
-More to come !!!
+<br>More to come !!!
