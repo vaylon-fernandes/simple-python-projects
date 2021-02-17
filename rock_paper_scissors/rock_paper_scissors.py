@@ -1,4 +1,4 @@
-from random import randint,choice
+from random import choice
 
 choices = ["Rock","Paper","Scissor"]
 
@@ -30,6 +30,7 @@ while play_game:
             print(f"Computer wins. {computer} smashes {player_input}")
     
     play_again = input("Do you want to play again? Enter (Y/N): ").upper()
+
     if play_again == "Y":
         computer = choice(choices)
     else:
