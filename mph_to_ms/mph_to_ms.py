@@ -12,6 +12,5 @@ speed_mph = float(input('Enter your speed in Miles per Hour (mph): '))
 
 speed_mps = speed_mph*0.4470277778
 
-print(f'Your speed is {round(speed_mps,2)} m/s')
-
-
+rounded_speed = round(speed_mps, 2)
+print(f'Your speed is {rounded_speed} m/s')

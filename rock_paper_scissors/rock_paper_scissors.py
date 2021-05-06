@@ -1,6 +1,6 @@
 from random import choice
 
-choices = ["Rock","Paper","Scissor"]
+choices = ["Rock", "Paper", "Scissor"]
 
 computer = choice(choices)
 
@@ -28,16 +28,12 @@ while play_game:
             print(f"Player wins. {player_input} cuts {computer}")
         else:
             print(f"Computer wins. {computer} smashes {player_input}")
-    
+
     play_again = input("Do you want to play again? Enter (Y/N): ").upper()
 
-    if play_again == "Y":
+    run_again = play_again == "Y"
+    if run_again:
         computer = choice(choices)
     else:
         print("Bye. Hope to see you again")
-        play_game=False
-            
-   
-
-    
-              
+        play_game = False
