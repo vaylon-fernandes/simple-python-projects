@@ -35,7 +35,7 @@ while True:
     # for the first guess there will be two items in the list
     # 0 at index:0, one guess at index 1
     # Hence getting the item using index -2, will return the value 0, which evaluates to false in this case,
-    # and evaluate to false in all other cases
+    # and evaluate to True in all other cases
     first_guess = guesses[-2]
     if first_guess:
         getting_close = current_guess_difference < previous_guess_difference
