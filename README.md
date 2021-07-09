@@ -13,4 +13,5 @@ A collection of beginner friendly python projects
 * [Guess the number](https://github.com/vaylon-fernandes/simple-python-projects/tree/main/guess_the_number)
 * [Odd or Even](https://github.com/vaylon-fernandes/simple-python-projects/tree/main/odd_or_even)
 * [Blind Auction](https://github.com/vaylon-fernandes/blind-auction)
+* [Black Jack](https://github.com/vaylon-fernandes/simple-python-projects/tree/main/blackjack)
 <br>More to come !!!
